@@ -1,7 +1,7 @@
 # KingKodePackages: GooglePackages
 
 ## What Is This
-You can add the Google packages from web instead of donwloading local files with is recomended.
+You can add the Google packages from web instead of donwloading local files which is recomended.
 
 ## How to Install
 First, make sure you add the following in the main packages manifest.json file:
